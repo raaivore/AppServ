@@ -1,0 +1,5 @@
+<Context  
+	docBase="path_to_appservs/AppsServs">
+	<Resources allowLinking="true"/>
+</Context>
+

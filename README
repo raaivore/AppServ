@@ -1,0 +1,10 @@
+tomcatis AppServ-i käivitamiseks:
+1. Kopeerige or.jar tomcat-home kataloogi alamkataloogi lib
+2. pange AppServ kataloogi puuse, kus ta on tomcatile käätesaadav
+3. redigeerige appsservs.xml faili seades AppServ kataloog õigeks
+4. pange appsservs.xml tomcat-home kataloogi puuse conf kataloogi alla Catalina/localhost-i
+5. Käivitage tomcat
+
+Mul ei Õnnestunud faile dockeris tomcat-i kopeerida 
+Järsku oskate Teie aidata siis palun andke mulle teada
+
